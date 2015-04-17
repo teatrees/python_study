@@ -1,2 +1,2 @@
-# python_lesson
+# python_study
 python training
